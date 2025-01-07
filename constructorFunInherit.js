@@ -23,3 +23,4 @@ jim.enrollCourse({ courseId: 'CS101' });
 console.log(jim.fullName());
 console.log(jim.courses);
 console.log(jim.constructor)
+console.log(typeof jim)
